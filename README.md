@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm &nbsp; "Muhammad"</h1>
 <h3 align="center">'A passionate Frontend Developer from Pakistan'</h3>
-<img align="right" alt="gif" width="405" src="https://user-images.githubusercontent.com/553892726/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="gif" width="405" src="https://user-images.githubusercontent.com/553892726/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 - 📫 How to reach me **mohammadbink2007@gmail.com**
 
