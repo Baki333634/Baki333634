@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm "Muhammad"</h1>
+<h1 align="center">Hi 👋, I'm &nbsp; "Muhammad"</h1>
 <h3 align="center">'A passionate Frontend Developer from Pakistan'</h3>
 <img align="right" alt="gif" width="405" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw17PaQVzA
 zWZPKTQxD8O9aW&ust=1744743686408000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiejPCa2IwDFQAAAAAdAAAAABAJ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baki333634&label=Profile%20views&color=0e75b6&style=flat" alt="baki333634" /> </p>
+<p align="left"> <img src=" https://user-images.githubusercontent..." alt="baki333634" /> </p>
 
 - 📫 How to reach me **mohammadbink2007@gmail.com**
 
