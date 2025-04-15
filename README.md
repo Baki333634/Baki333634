@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm &nbsp; "Muhammad"</h1>
 <h3 align="center">'A passionate Frontend Developer from Pakistan'</h3>
-<img align="right" alt="gif" width="405" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw17PaQVzA
-zWZPKTQxD8O9aW&ust=1744743686408000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiejPCa2IwDFQAAAAAdAAAAABAJ">
+<img align="right" alt="gif" width="405" src="https://user-images.githubusercontent.com/553892726/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src=" https://user-images.githubusercontent..." alt="baki333634" /> </p>
 
